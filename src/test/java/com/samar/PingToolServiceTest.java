@@ -2,6 +2,8 @@ package com.samar;
 
 import org.junit.jupiter.api.Test;
 
+import com.samar.service.PingToolService;
+
 public class PingToolServiceTest {
 
     @Test

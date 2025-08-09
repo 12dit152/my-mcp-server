@@ -1,4 +1,4 @@
-package com.samar;
+package com.samar.service;
 
 import org.springframework.ai.tool.annotation.Tool;
 import org.springframework.stereotype.Service;
